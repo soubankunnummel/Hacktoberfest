@@ -1,0 +1,5 @@
+const array = ['h', 'a', 'c', 'k', 't', 'o', 'b', 'e', 'r', 'f', 'e', 's', 't'];
+
+const stringValue = array.join('');
+
+console.log(stringValue); // "hacktoberfest"
